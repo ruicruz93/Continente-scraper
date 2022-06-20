@@ -13,4 +13,6 @@ The program will output an Excel file, where each category/brand name will have 
 
 ## Before running
 
+Spreadsheet editing software like Excel will be required. Free alternatives like [LibreOffice](https://www.libreoffice.org/) will also get the job done.
+Please fill out the Variables.txt with the required paths. 
 Please check the requirements file to make sure you meet the necessary dependencies to run this program. Otherwise, open command prompt and: pip install -r "C:\path\to\requirements.txt"
