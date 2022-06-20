@@ -11,4 +11,6 @@ To add or remove categories, please edit the Categories.txt file. You can find e
 
 The program will output an Excel file, where each category/brand name will have its own sheet and respective available deals. Each sheet will also come sorted by €/(Unit|Kg|L) as well as feature a unique tab and header color. Pretty neat, huh? In case you want to run the program from a BAT file, I threw in an old Continente logo for you to use as the Shortcut’s icon.
 
+## Before running
+
 Please check the requirements file to make sure you meet the necessary dependencies to run this program. Otherwise, open command prompt and: pip install -r "C:\path\to\requirements.txt"
