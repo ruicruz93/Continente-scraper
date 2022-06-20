@@ -1,0 +1,23 @@
+Category,URL
+Rice,mercearia/arroz-massa-e-farinha/arroz/
+Pasta,mercearia/arroz-massa-e-farinha/massa/
+Fine ground coffee,mercearia/cha-cafe-e-achocolatados/cafe-torrado/
+Fruit and Vegetables,frutas-e-legumes/
+Canned tuna,mercearia/conservas/atum/
+Yogurt,laticinios-e-ovos/iogurtes/
+Canned sausage,mercearia/conservas/salsichas/
+Fish,peixaria-e-talho/peixaria/peixe-fresco/
+Inkfish,peixaria-e-talho/peixaria/polvo-lulas-e-chocos/
+Frozen fish,peixaria-e-talho/peixaria/peixe-congelado/
+Hair conditioner,higiene-e-beleza/cabelo/condicionadores/
+Shampoo,higiene-e-beleza/cabelo/champos/
+Body wash women,higiene-e-beleza/corpo/gel-de-banho/
+Body wash men,higiene-e-beleza/produtos-para-homem/gel-de-banho/
+Codfish,peixaria-e-talho/peixaria/bacalhau/
+Shrimp,peixaria-e-talho/peixaria/camarao/
+Tea,mercearia/cha-cafe-e-achocolatados/chas-e-infusoes/
+Extra virgin olive oil,mercearia/azeite-oleo-e-vinagre/azeite-virgem-extra/
+Chicken and turkey,peixaria-e-talho/talho/frango-e-peru/
+Beef,peixaria-e-talho/talho/novilho-vitela-e-vitelao/
+Red wine,bebidas-e-garrafeira/vinho/vinho-tinto/
+Toothpaste,higiene-e-beleza/higiene-oral/pastas-de-dentes/
